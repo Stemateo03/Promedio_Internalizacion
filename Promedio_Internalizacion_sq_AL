@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="sq_AL">
+<context>
+    <name>Principal</name>
+    <message>
+        <location filename="principal.ui" line="14"/>
+        <source>Principal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="56"/>
+        <source>Notas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="62"/>
+        <source>Nota 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="76"/>
+        <source>Nota 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="90"/>
+        <source>Nota 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="104"/>
+        <source>PROMEDIO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="125"/>
+        <source>&amp;Archivo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="139"/>
+        <source>&amp;Guardar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="142"/>
+        <source>Ctrl+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="151"/>
+        <source>&amp;Salir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="principal.ui" line="154"/>
+        <source>Ctrl+Q</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+</TS>
