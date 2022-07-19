@@ -6,57 +6,57 @@
     <message>
         <location filename="principal.ui" line="14"/>
         <source>Principal</source>
-        <translation type="unfinished"></translation>
+        <translation>主要的</translation>
     </message>
     <message>
         <location filename="principal.ui" line="56"/>
         <source>Notas</source>
-        <translation type="unfinished"></translation>
+        <translation>成績</translation>
     </message>
     <message>
         <location filename="principal.ui" line="62"/>
         <source>Nota 1</source>
-        <translation type="unfinished"></translation>
+        <translation>注1</translation>
     </message>
     <message>
         <location filename="principal.ui" line="76"/>
         <source>Nota 2</source>
-        <translation type="unfinished"></translation>
+        <translation>注2</translation>
     </message>
     <message>
         <location filename="principal.ui" line="90"/>
         <source>Nota 3</source>
-        <translation type="unfinished"></translation>
+        <translation>注3</translation>
     </message>
     <message>
         <location filename="principal.ui" line="104"/>
         <source>PROMEDIO</source>
-        <translation type="unfinished"></translation>
+        <translation>平均</translation>
     </message>
     <message>
         <location filename="principal.ui" line="125"/>
         <source>&amp;Archivo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;檔案</translation>
     </message>
     <message>
         <location filename="principal.ui" line="139"/>
         <source>&amp;Guardar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;節省</translation>
     </message>
     <message>
         <location filename="principal.ui" line="142"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="principal.ui" line="151"/>
         <source>&amp;Salir</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;離開</translation>
     </message>
     <message>
         <location filename="principal.ui" line="154"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
 </context>
 </TS>
